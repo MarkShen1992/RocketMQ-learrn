@@ -4,7 +4,7 @@ package com.mark.rocketmqlearn;
  * Hello world!
  *
  */
-public class App 
+public class RocketMQ0100 
 {
     public static void main( String[] args )
     {
